@@ -3,12 +3,12 @@ Automated builds of OpenWrt for FriendlyARM NanoPi R2S & R4S boards
 
 ⚠ Warning: No support / Use at your own risk  ⚠ 
 
-[![NanoPi Build](https://github.com/anaelorlinski/OpenWrt-NanoPi-R2S-R4S-Builds/actions/workflows/NanoPi-Build.yml/badge.svg)](https://github.com/anaelorlinski/OpenWrt-NanoPi-R2S-R4S-Builds/actions/workflows/NanoPi-Build.yml)
+[![NanoPi Build](https://github.com/testingsw1/OpenWrt-NanoPi-R2S-R4S-Builds/actions/workflows/NanoPi-Build.yml/badge.svg)](https://github.com/testingsw1/OpenWrt-NanoPi-R2S-R4S-Builds/actions/workflows/NanoPi-Build.yml)
 
 
 ## OpenWrt branch 21.02 (stable)
 
-### Downloads [Releases 21.02](https://github.com/anaelorlinski/OpenWrt-NanoPi-R2S-R4S-Builds/releases?q=21.02&expanded=true)
+### Downloads [Releases 21.02](https://github.com/testingsw1/OpenWrt-NanoPi-R2S-R4S-Builds/releases?q=21.02&expanded=true)
 
 ### Configuration
 - OpenWRT 21.02 Vanilla / Kernel 5.4
